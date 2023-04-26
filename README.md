@@ -4,6 +4,7 @@
 
 - 目前在**腾讯， 深圳**工作
 - 主业是**前端开发**，主要专注于**图像处理方向**
+- 2015年接触前端，2018年本科毕业于电子科技大学在腾讯工作至今
 - [个人博客链接](https://github.com/xingbofeng/xingbofeng.github.io/issues)
 - [知乎专栏 - Counter的技术分享](https://www.zhihu.com/column/encounter)
 - 主导过腾讯医疗影像产品的研发，[cornerstoneTools](https://github.com/cornerstonejs/cornerstoneTools)的贡献者之一
